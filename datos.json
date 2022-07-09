@@ -1,0 +1,5 @@
+[{ "x": 300, "y": 300, "intensidad": 5}, 
+{ "x": 5, "y": 45, "intensidad": 10},
+{ "x": 10, "y": 900, "intensidad":7},
+{ "x": 800, "y": 170, "intensidad": 8},
+{ "x": 400, "y": 65, "intensidad": 9}]
